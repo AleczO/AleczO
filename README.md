@@ -51,14 +51,4 @@ Notes and derivations from [aleczo.github.io](https://aleczo.github.io/research.
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
 </p>
 
-<h3 align="left">GitHub Stats</h3>
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=AleczO&show_icons=true&theme=default&hide_border=true" alt="Aleksander's GitHub stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleczO&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
-<p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AleczO&hide_border=true" alt="GitHub Streak"/>
-</p>
-
 Open to discussion on theoretical neuroinformatics, system dynamics, and machine learning — reach out via [email](mailto:alecz0.code@gmail.com) or [LinkedIn](https://www.linkedin.com/in/aleksander-czop-759926280/).
