@@ -24,6 +24,7 @@ I'm a 2nd-year Systems Engineering student with a strong interest in Machine Lea
 
 | Project | Description |
 |---|---|
+| [Grokking](https://github.com/AleczO/Grokking) | Studying the grokking phenomenon on algorithmic tasks (modular arithmetic, complex multiplication) across DOT, MHDOT, and a novel astrocyte-inspired linear-attention transformer (NAT) |
 | [biologically-plausible-transformer](https://github.com/AleczO/biologically-plausible-transformer) | Linear RNN inspired by astrocyte-neuron interactions, as a biologically grounded alternative to attention |
 | [Neuron-astrocyte-Network-Dynamics](https://github.com/AleczO/Neuron-astrocyte-Network-Dynamics) | Vectorized PyTorch implementation of tripartite synapse (neuron-astrocyte) network dynamics for RL |
 | [brats24-glioma-research](https://github.com/AleczO/brats24-glioma-research) | 3D multi-modal brain tumor segmentation (BraTS 2024) with PyTorch & MONAI — high-precision 3D U-Net |
