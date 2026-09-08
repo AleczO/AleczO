@@ -2,7 +2,7 @@
 
 <p align="center">
   Systems Engineering (Data Engineering) student @ Wrocław University of Science and Technology<br>
-  Exploring the intersection of <b>computational neuroscience</b>, <b>bio-inspired ML</b>, and <b>brain-computer interfaces</b>
+  Exploring the intersection of <b>computational neuroscience</b> and <b>bio-inspired ML</b>
 </p>
 
 <p align="center">
@@ -11,11 +11,10 @@
   <a href="mailto:alecz0.code@gmail.com"><img src="https://img.shields.io/badge/Email-alecz0.code-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-I'm a 2nd-year Systems Engineering student with a strong interest in Machine Learning, Computational Neuroscience, and Biomedical Analysis. Most of my work lives at the boundary between biology and deep learning — from astrocyte-modulated neural networks to real-time EEG-based interfaces and clinical image analysis.
+I'm a 2nd-year Systems Engineering student with a strong interest in Machine Learning, Computational Neuroscience, and Biomedical Analysis. Most of my work lives at the boundary between biology and deep learning, spanning astrocyte-modulated neural networks and clinical image analysis.
 
 ### What I'm working on
 
-- **Brain-Computer Interfaces** — SSVEP-based spellers, real-time EEG signal processing
 - **Bio-inspired & Computational Neuroscience** — astrocyte-neuron network dynamics, spiking neural networks, biologically plausible alternatives to attention
 - **Medical Image AI** — volumetric tumor segmentation, histopathology classification
 - **Mechanistic Interpretability** — studying learned representations in transformer embeddings and the grokking phenomenon
@@ -29,6 +28,7 @@ I'm a 2nd-year Systems Engineering student with a strong interest in Machine Lea
 | [Neuron-astrocyte-Network-Dynamics](https://github.com/AleczO/Neuron-astrocyte-Network-Dynamics) | Vectorized PyTorch implementation of tripartite synapse (neuron-astrocyte) network dynamics for RL |
 | [brats24-glioma-research](https://github.com/AleczO/brats24-glioma-research) | 3D multi-modal brain tumor segmentation (BraTS 2024) with PyTorch & MONAI — high-precision 3D U-Net |
 | [her2-classification](https://github.com/AleczO/her2-classification) | HER2 breast cancer status classification from histopathology — 96.6% accuracy, Grad-CAM interpretability |
+| [model-compression](https://github.com/AleczO/model-compression) | Neural network quantization implemented from scratch in C++ (INT8 post-training quantization), verified against a Res8 keyword-spotting model trained in PyTorch |
 
 ### Articles
 
@@ -36,6 +36,8 @@ Notes and derivations from [aleczo.github.io](https://aleczo.github.io/research.
 
 | Article | Topic |
 |---|---|
+| [Optimization Methods on an Energy Landscape](https://aleczo.github.io/articles/optimization-landscape/index.html) | Comparing Gradient Descent, SGD, Momentum, RMSProp, and Adam on three synthetic non-convex landscapes, with interactive 3D and 2D simulations |
+| [Reprezentacje grup cyklicznych w sieciach neuronowych](https://aleczo.github.io/articles/group-operations/index.html) | How a two-layer perceptron learns to represent modular addition via cyclic group character theory |
 | [Transformer Architecture - Self-Attention](https://aleczo.github.io/articles/transformer-self-attention/index.html) | Analysis of self-attention mechanisms |
 | [Maximum Likelihood Estimation for Multivariate Gaussian](https://aleczo.github.io/articles/mle-multivariate-gaussian/index.html) | Step-by-step derivation of the MLE for mean vector and covariance matrix |
 | [Numerical Analysis of Dynamical Systems: The Euler Method](https://aleczo.github.io/articles/euler-method-analysis/index.html) | Formal derivation and error analysis of the Euler method |
@@ -52,4 +54,4 @@ Notes and derivations from [aleczo.github.io](https://aleczo.github.io/research.
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
 </p>
 
-Open to discussion on theoretical neuroinformatics, system dynamics, and machine learning — reach out via [email](mailto:alecz0.code@gmail.com) or [LinkedIn](https://www.linkedin.com/in/aleksander-czop-759926280/).
+Open to discussion on theoretical neuroinformatics, system dynamics, and machine learning. Reach out via [email](mailto:alecz0.code@gmail.com) or [LinkedIn](https://www.linkedin.com/in/aleksander-czop-759926280/).
