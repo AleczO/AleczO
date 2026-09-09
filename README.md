@@ -11,7 +11,7 @@
   <a href="mailto:alecz0.code@gmail.com"><img src="https://img.shields.io/badge/Email-alecz0.code-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-I'm a 3nd-year Systems Engineering student with a strong interest in Machine Learning, Computational Neuroscience, and Biomedical Analysis. Most of my work lives at the boundary between biology and deep learning, spanning astrocyte-modulated neural networks and clinical image analysis.
+I'm a 3rd-year Systems Engineering student with a strong interest in Machine Learning, Computational Neuroscience, and Biomedical Analysis. Most of my work lives at the boundary between biology and deep learning, spanning astrocyte-modulated neural networks and clinical image analysis.
 
 ### What I'm working on
 
