@@ -32,7 +32,7 @@ Dynamics of tripartite synapse networks and their relation to sequence models, b
 
 Deep learning for clinical imaging, including 3D multi-modal brain tumor segmentation (BraTS 2024) and HER2 status classification from histopathology with Grad-CAM interpretability.
 
-**Code:** [brats24-glioma-research](https://github.com/AleczO/brats24-glioma-research) · [her2-classification](https://github.com/AleczO/her2-classification)
+**Code:** [BraTS2024](https://github.com/AleczO/BraTS2024) · [her2-classification](https://github.com/AleczO/her2-classification)
 
 ### Other
 
